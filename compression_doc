@@ -1,0 +1,9 @@
+Compression/Decompression Algorithmy himnvac e Huffman Codingi vra.
+Nax stexcvum e textum exac bolor charactarneri aghysak vor cuyc e talis te yuraqanchyur character qani angam e handipel textum.
+Stexcvum e Heap vortex pahvum e Node-ery`charactary ir hachaxutyamb.
+Aynuhetev 2 aveli qich hachaxutyamb handipox charactarnery miavorvum en 1 Node-i mej` isk irenc hachaxutyunnery gumarvum.
+Gorcoxutyuny katarvum e aynqan jamanak qani der Heapum ka 1 Nodic avel Node.
+Processy verjanaluc heto stexcvum e Tree.
+Tree-i dzax chyugin veragrvum e 0, isk Aj chyugin ` 1.
+Ayspes amen mi Character stanum e ir Bitayin nerkayacumy.
+Erb Character->Bit agyusaky patrastvum e, mnum e eghac informacian decode anel decompress anelu hamar
